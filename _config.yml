@@ -2,7 +2,7 @@
 # title_left    : "Hello"
 # title_right   : "World"
 description   : "Yanyan Ren"
-keywords      : ""
+keywords      : "Yanyan Ren, Brown, Swarthmore, PLT"
 url           : https://yanyanr.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
